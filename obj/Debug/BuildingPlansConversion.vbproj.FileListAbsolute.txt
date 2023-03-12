@@ -1,0 +1,12 @@
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.exe.config
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.exe
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.pdb
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\bin\Debug\BuildingPlansConversion.xml
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbproj.AssemblyReference.cache
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.Form1.resources
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.Resources.resources
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbproj.GenerateResource.cache
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.vbproj.CoreCompileInputs.cache
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.exe
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.xml
+C:\Users\barron_wesley\source\repos\BuildingPlansConversion\obj\Debug\BuildingPlansConversion.pdb
